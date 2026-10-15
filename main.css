@@ -1,0 +1,183 @@
+*{
+    box-sizing: border-box;
+}
+
+.BG-div{
+
+    background-color: #F4F7FB;
+}
+
+.main-div{
+    width: 80%;
+    background-color: #18487B;
+    color: white;
+    padding: 30px;
+    border-radius: 20px;
+    text-align: center;
+    margin: 20px auto 30px;
+
+}
+
+
+#special{
+    color: #B9DCFF;
+}
+
+.colors{
+    color: white;
+    padding-left: 10px;
+}
+
+
+
+
+
+
+
+
+
+h2{
+    color: #18487B;
+    padding-top: 5%;
+    padding-left: 5% ;
+}
+
+.small-divs{
+    background-color: white;
+    width: 80%;
+    margin: 0 auto 30px;
+    border-radius: 20px;
+}
+
+.photo{
+    width: 30%;
+    float: left;
+    padding: 3%;
+}
+
+#john’s-img{
+    width: 100%;
+    border-radius: 50%;
+}
+
+.defenation{
+    width:70%;
+    float: left;
+    padding-top:7%;
+
+}
+
+
+span{
+    color: blue;
+}
+
+.clear{
+clear: both;
+}
+
+
+
+
+
+
+
+
+
+.p-edit{
+    padding-top: 2%;
+    padding-left: 5% ;
+}
+
+.the-smallest-div{
+    background-color: #F8FAFC;
+    width: 25%;
+    height: 170px;
+    float: left;
+    padding: 2%;
+    border:white 10px solid ;
+    border-radius: 20%;
+}
+
+
+
+
+
+
+.EX-smalldiv{
+    background-color:#F8FAFC;
+    width: 90%;
+    margin: auto;
+    border-radius: 20px;
+    border-left:  #18487B solid 10px;
+}
+
+.EX-photo{
+    width: 13%;
+    float: left;
+}
+
+.EX-img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.EX-defenation{
+    width: 70%;
+    padding-left: 30px;
+    float: left;
+}
+
+.EX-p{
+padding-left: 20px;
+padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+#special-h2{
+    color: white;
+    padding-bottom: 20px;
+}
+
+.to-color{
+    background-color: #18487B;
+    height: 200px;
+}
+.con-p{
+    color: white;
+    padding-left: 5%;
+}
+
+.con-a{
+    color: white;
+    padding-left: 6%;
+    padding-bottom: 5%;
+}
+
+
+
+
+
+
+.last-div{
+    background-color: #071A35;
+    height: 80px;
+}
+
+.last-div-p{
+    color: white;
+    text-align: center;
+    padding-top:  35px;
+
+}
+
+
+.last-div-span{
+    color: #71C1FC;
+    
+}
